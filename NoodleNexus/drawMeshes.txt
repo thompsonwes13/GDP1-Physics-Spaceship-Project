@@ -1,0 +1,23 @@
+Name: Light_Sphere
+Path: assets/models/Sphere_radius_1_xyz_N.ply
+isWireFrame: true
+Colour: 255 255 0
+
+Name: Wall
+Path: assets/models/spaceship/SM_Env_Wall_01_xyz_n_rgba_uv.ply
+isWireframe: false
+Colour: 255 0 0
+
+Name: Ceiling
+Path: assets/models/spaceship/SM_Env_Floor_01_xyz_n_rgba_uv.ply
+isWireframe: false
+Colour: 0 255 0
+
+Name: Floor
+Path: assets/models/spaceship/SM_Env_Floor_01_xyz_n_rgba_uv.ply
+isWireframe: false
+Colour: 0 0 255
+
+
+
+

@@ -1,0 +1,17 @@
+assets/models/Sphere_radius_1_xyz_N.ply
+assets/models/Flat_Plane_xyz_N.ply
+assets/models/Cube_xyz_N.ply
+assets/models/spaceship/SM_Env_Wall_01_xyz_n_rgba_uv.ply
+assets/models/spaceship/SM_Env_Wall_015_xyz_n_rgba_uv.ply
+assets/models/spaceship/SM_Env_Wall_012_xyz_n_rgba_uv.ply
+assets/models/spaceship/SM_Env_Wall_05_xyz_n_rgba_uv.ply
+assets/models/spaceship/SM_Env_Wall_06_xyz_n_rgba_uv.ply
+assets/models/spaceship/SM_Env_Wall_013_xyz_n_rgba_uv.ply
+assets/models/spaceship/SM_Env_Ceiling_01_xyz_n_rgba_uv.ply
+assets/models/spaceship/SM_Env_Floor_01_xyz_n_rgba_uv.ply
+assets/models/spaceship/SM_Bld_Hanger_01_xyz_n_uv.ply
+assets/models/spaceship/SM_Bld_Hanger_01_NO_DOORS_or_WINDOWS_flatshaded_xyz_n.ply
+assets/models/spaceship/SM_Bld_HangerPlatform_01_xyz_n_uv.ply
+assets/models/spaceship/SM_Env_Construction_Block_01_xyz_n_rgba_uv.ply
+assets/models/spaceship/SM_Prop_Stairs_01_xyz_n_rgba_uv.ply
+assets/models/spaceship/SM_Prop_StepLadder_01_xyz_n_rgba_uv.ply
